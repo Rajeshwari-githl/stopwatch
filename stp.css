@@ -1,0 +1,84 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+h2 b {
+	font-size: 3rem;
+	font-family: cursive;
+	font-weight: 700;
+	margin-left: 31%;
+}
+#head2
+{
+	margin-top: 15%;
+	font-size:  4rem;
+}
+
+ #start-btn
+ {
+ 	margin-top: 10%;
+ 	width: 20%;
+ 	padding:  2px,2px,2px,2px;
+ 	border: none;
+ 	padding: 3px;
+ 	border-radius: 50px;
+ 	font-size: 1.5rem;
+ 	background-color: lightgreen;
+ 	font-family: monospace;
+ 	letter-spacing: 1px;
+ 	text-transform: uppercase;
+ 	box-shadow: 5px 5px solid black;
+ 	cursor: pointer;
+ 	transition: 0.3s ease;
+ }
+ #start-btn:hover
+ {
+ 	background-color: orange;
+ 	color: black;
+ }
+
+ #stop-btn 
+ {
+ 	cursor : pointer;
+ 	margin-top: 10%;
+ 	width: 20%;
+ 	padding: 2px,2px,2px,2px;
+ 	border:  none;
+ 	padding: 3px;
+ 	border-radius: 50px;
+ 	font-size: 1.5rem;
+ 	background-color: lightgreen;
+ 	font-family: monospace;
+ 	letter-spacing: 1px;
+ 	text-transform: uppercase;
+ 	transition: 0.3s ease;
+ }
+ #stop-btn:hover
+ {
+ 	background-color: orange;
+ 	color: black;
+ }
+ #reset-btn
+ {
+   cursor : pointer;
+ 	margin-top: 3%;
+ 	width: 20%;
+ 	padding: 2px,2px,2px,2px;
+ 	border:  none;
+ 	padding: 3px;
+ 	border-radius: 50px;
+ 	font-size: 1.5rem;
+ 	background-color: lightgreen;
+ 	font-family: monospace;
+ 	letter-spacing: 1px;
+ 	text-transform: uppercase;
+ 	transition: 0.3s ease;
+ 
+ }
+ #reset-btn:hover
+ {
+ 	background-color: orange;
+ 	color: black;
+ }

@@ -5,7 +5,8 @@ it is a start and stop watch
  <h2>TO Do </h2>
  <ul>
  <li>to improve timestamp</li>
- <li>calculate the start and stop time</li>
+  <li>calculate the start and stop time</li>
+ <li>store the calculated history </li>
  <p> If u have any idea to improve this site u can feel free to make a PR </p>
  
  
